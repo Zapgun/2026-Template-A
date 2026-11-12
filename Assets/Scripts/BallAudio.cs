@@ -1,6 +1,8 @@
 using UnityEngine;
 using System.Collections;
 
+# Test comment!
+
 public class ExampleClass : MonoBehaviour
 {
     AudioSource audioSource;
