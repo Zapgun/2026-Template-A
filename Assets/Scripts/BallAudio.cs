@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 # Test comment!
+# Second Comment!
 
 public class ExampleClass : MonoBehaviour
 {
